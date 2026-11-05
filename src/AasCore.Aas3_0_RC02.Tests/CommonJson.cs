@@ -1,4 +1,8 @@
-﻿using Aas = AasCore.Aas3_0_RC02;  // renamed
+﻿// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-csharp AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
+using Aas = AasCore.Aas3_0_RC02;  // renamed
 using FileMode = System.IO.FileMode;
 using FileStream = System.IO.FileStream;
 using JsonException = System.Text.Json.JsonException;

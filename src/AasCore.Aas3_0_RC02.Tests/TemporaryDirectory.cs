@@ -1,4 +1,8 @@
-﻿using IDisposable = System.IDisposable;
+﻿// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-csharp AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
+using IDisposable = System.IDisposable;
 
 namespace AasCore.Aas3_0_RC02.Tests
 {

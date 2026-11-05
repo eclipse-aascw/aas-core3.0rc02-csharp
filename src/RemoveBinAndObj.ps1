@@ -1,5 +1,9 @@
 #!/usr/bin/env pwsh
 
+# SPDX-FileCopyrightText: 2022 aas-core3.0rc02-csharp AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
 param(
     [Parameter(
             HelpMessage = "If set, deletes the directories without any prompt")]
